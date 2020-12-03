@@ -23,6 +23,7 @@
 		7E505CB72572B26B0076B6E6 /* BookmarksController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E505CB62572B26B0076B6E6 /* BookmarksController.swift */; };
 		7E505CBE2572D4F30076B6E6 /* MomentsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E505CBD2572D4F30076B6E6 /* MomentsController.swift */; };
 		7ECA76E925791C9B000D1654 /* CategoriesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ECA76E825791C9B000D1654 /* CategoriesController.swift */; };
+		7ECA76EE25792EBE000D1654 /* checkTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ECA76ED25792EBE000D1654 /* checkTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		7E505CB62572B26B0076B6E6 /* BookmarksController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BookmarksController.swift; path = SlideMenu/Controller/BookmarksController.swift; sourceTree = SOURCE_ROOT; };
 		7E505CBD2572D4F30076B6E6 /* MomentsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MomentsController.swift; sourceTree = "<group>"; };
 		7ECA76E825791C9B000D1654 /* CategoriesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesController.swift; sourceTree = "<group>"; };
+		7ECA76ED25792EBE000D1654 /* checkTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = checkTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 			isa = PBXGroup;
 			children = (
 				7E505CB02572AE5A0076B6E6 /* BaseController.swift */,
+				7ECA76ED25792EBE000D1654 /* checkTableViewController.swift */,
 			);
 			path = Base;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				7E505CA12572ADE50076B6E6 /* ProfileImageView.swift in Sources */,
 				7E505C862572AD290076B6E6 /* AppDelegate.swift in Sources */,
 				7E505CAD2572AE3A0076B6E6 /* ListsController.swift in Sources */,
+				7ECA76EE25792EBE000D1654 /* checkTableViewController.swift in Sources */,
 				7E505C882572AD290076B6E6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
